@@ -2,4 +2,4 @@
 
 
 ##### Paste this into your Python terminal to see what's on my mind::
-print(chr(sum(range(ord(min(str(not(0)))))))))
+print(chr(sum(range(ord(min(str(not(0))))))))
